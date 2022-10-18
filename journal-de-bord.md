@@ -9,4 +9,4 @@ création du git PPE1
 - création d'une issue sur le git "PPE" du professeur pour partager mon git "PPE1"
 - création du git "projetlauracamilleS1", et partage avec Camille
 - 15/10 : TD2 git - problème avec exo 3 - à refaire plus tard !
-- 18/10 : avec Camille - mot trouvé et reflexion émise pour le projet
+- 18/10 : avec Camille - mot trouvé et reflexion émise pour le projet et 50 urls pour mot en chinois fait
