@@ -1,4 +1,2 @@
-# PPE1
+# PPE1 - Laura Darenne, Inalco
 Programmation et projet encadré 1
-
-Laura Darenne, Inalco
