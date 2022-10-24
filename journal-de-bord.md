@@ -10,3 +10,7 @@ création du git PPE1
 - création du git "projetlauracamilleS1", et partage avec Camille
 - 15/10 : TD2 git - problème avec exo 3 - à refaire plus tard !
 - 18/10 : avec Camille - mot trouvé et reflexion émise pour le projet et 50 urls pour mot en chinois fait
+
+## séance 5 19/10
+- git projet déjà créé
+- 24/10 : problème ordinateur portable + examens, reprise du travail pendant les vacances
