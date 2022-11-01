@@ -2,7 +2,7 @@
 
 ANNEE=$1
 
-if -s *.ann
+if -s $ANNEE*.ann
 then
-echo 
+	echo 
 fi
