@@ -21,4 +21,5 @@ création du git PPE1
 - objectif des vacances, mettre à jour correctement le git
 
 #### après séance 6 et vacances
-- 01/11 : reprise du git
+- 01/11 : exos
+	- pas réussi exo shell classement ville
