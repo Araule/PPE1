@@ -22,4 +22,4 @@ création du git PPE1
 
 #### après séance 6 et vacances
 - 01/11 : exos
-	- pas réussi exo shell classement ville
+	- pas réussi exo shell classement ville les plus cités
