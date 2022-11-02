@@ -22,4 +22,8 @@ création du git PPE1
 
 #### après séance 6 et vacances
 - 01/11 : exos
-	- pas réussi exo shell classement ville les plus cités
+	- pas réussi script 3 = exo shell classement ville les plus cités
+	- arborescence du dossier Fichiers fait
+	- script 4 = diapo SHELL 43 - EN COURS
+- 02/11 : partie 2 de diapo SHELL 43 non faisable car pas réussi script précédent sur le classement des villes
+	- partie 1 essayé mais pas fini, ne marche pas

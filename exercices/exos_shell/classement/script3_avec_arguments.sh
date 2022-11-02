@@ -1,9 +1,24 @@
 #!/usr/bin/bash
 
+#script non fini, pas réussi à trouver la réponse
+#j'avais l'impression de partir dans la mauvaise direction
+
 ANNEE=$1
 MOIS=$2
 NOMBRE=$3
 
-#je ne comprend pas comment faire le classement et comment utiliser la variable nombre
-echo "classement pour l'année $ANNEE" >> sortie2.txt
-grep "LOCATION" $ANNEE_$MOIS*.ann | wc -l >> sortie2.txt
+#print toutes les lignes dans un fichier texte
+grep "LOCATION" $ANNEE_$MOIS*.ann >> fichierbrut.txt
+
+#suprimmer les colonnes non nécessaire
+#sed -r -i "\bT[0-9]\b" fichierbrut.txt
+
+
+
+echo "classement pour le mois $MOIS de l'année $ANNEE" >> sortie2.txt
+
+for ELEMENT in $ELEMENTS
+do
+	N = $ ( expr $N + 1)
+	echo "le $N ieme élé ment est $ELEMENT"
+done
