@@ -25,6 +25,7 @@ création du git PPE1
 	- **pas réussi script 3** = exo shell classement ville les plus cités
 	- arborescence du dossier Fichiers fait
 	- **script 4** = diapo SHELL 43 - **pas réussi**
-- 02/11 : partie 2 de diapo SHELL 43 non faisable car pas réussi script précédent sur le classement des villes
+- 02/11 : exos
+	- **partie 2 de diapo SHELL 43 non faisable** car pas réussi script 3 sur le classement des villes
 	- partie 1 essayé mais pas fini, ne marche pas
 - 03/11 : urls à jour sur git projet
