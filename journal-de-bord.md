@@ -29,3 +29,12 @@ création du git PPE1
 	- **partie 2 de diapo SHELL 43 non faisable** car pas réussi script 3 sur le classement des villes
 	- partie 1 essayé mais pas fini, ne marche pas
 - 03/11 : urls à jour sur git projet
+
+## séance 7 09/11 - c'est la rentrée !
+- apprentissage de htlm
+- début du TD jusqu'à l'exercice 2
+
+#### après séance 7
+- 15/11 : continuation du TD 
+	- pour répondre plus vite à l'exercice, je crée un fichier "curl.sh" qui prend tous les entêtes de mes urls 
+	et les dump dans un fichier "fichier_in_utile.txt" (omg j'y crois pas ça marche)

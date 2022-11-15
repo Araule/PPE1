@@ -1,0 +1,1136 @@
+ligne 1:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:05 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=0c795988-e69e-443a-bded-da5b89bf8561; path=/; expires=Thu, 14 Nov 2024 14:03:04 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=58db684a-dd07-4c65-88ae-42b6d31c5e7d; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AHDWmRv63hWPTif2A38erzwuQHtiLUqqdN4=|1668520984; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:04 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-c2b6a1c6-219e-48d3-97f6-b709c0d819d1' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-c2b6a1c6-219e-48d3-97f6-b709c0d819d1' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-c2b6a1c6-219e-48d3-97f6-b709c0d819d1' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.142
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.14600014686584
+ x-lb-timing: 0.146
+ x-idc-id: 2
+ set-cookie: KLBRSID=0a401b23e8a71b70de2f4b37f5b4e379|1668520984|1668520984; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: must-revalidate, proxy-revalidate, no-cache, no-store
+ content-length: 98175
+ x-nws-log-uuid: 5695779399698740028
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.461
+ x-cdn-provider: tencent
+ 
+ligne 2:
+HTTP/2 200 
+ server: JSP3/2.0.14
+ date: Tue, 15 Nov 2022 14:03:06 GMT
+ content-type: text/html;charset=UTF-8
+ set-cookie: acw_tc=76b20f4716685209867072074e5a185ca2a4cd0f1fd8fb5901e784229e2309;path=/;HttpOnly;Max-Age=1800
+ accept-ranges: bytes
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ content-language: en-US
+ x-cache: from test-wap1
+ x-varnish: 580019430
+ timing-allow-origin: *
+ ohc-cache-hit: als3un58 [1], bdix160 [1]
+ x-cache-status: MISS
+ 
+ligne 3:
+HTTP/2 200 
+ server: JSP3/2.0.14
+ date: Tue, 15 Nov 2022 14:03:08 GMT
+ content-type: text/html; charset=utf-8
+ cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+ set-cookie: acw_tc=76b20f7016685209880442602e4ad7e816d55c1f5b88a66fb33b23aeadd22b;path=/;HttpOnly;Max-Age=1800
+ vary: Accept-Encoding
+ x-powered-by: Next.js
+ vary: Accept-Encoding
+ timing-allow-origin: *
+ ohc-cache-hit: als3un72 [1], bdix234 [1]
+ x-cache-status: MISS
+ 
+ligne 4:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:09 GMT
+ Content-Type: text/html;charset=UTF-8
+ Server: openresty
+ Vary: Accept-Encoding
+ Access-Control-Allow-Origin: *
+ Access-Control-Allow-Credentials: true
+ Access-Control-Allow-Headers: Origin,Content-Type,authorization,Accept,token,X-Requested-With
+ Access-Control-Allow-Methods: POST,GET,OPTIONS,DELETE
+ Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+ Access-Control-Expose-Headers: Origin,Access-Control-Request-Method,Access-Control-Request-Headers,X-forwared-port,X-forwarded-host
+ Gateway-Forwarding: prod-txy7
+ Access-Time: 1668520989517
+ Content-Language: en-US
+ X-HAIWAI: haiwai_qcloud
+ X-Cache-Lookup: Cache Miss
+ X-Client-IP: 195.220.106.83
+ From: overseas
+ X-Cache-Lookup: Cache Miss
+ X-Cache-Lookup: Cache Miss
+ Cache-Control: no-cache
+ Transfer-Encoding: chunked
+ X-NWS-LOG-UUID: 6554574266958947367
+ Connection: keep-alive
+ X-Cache-Lookup: Cache Miss
+ 
+ligne 5:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:10 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=957abc08-ba3c-456d-8841-100254561cc6; path=/; expires=Thu, 14 Nov 2024 14:03:10 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=b4e0a047-ed05-4040-8982-49ebace0ad44; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AICTmSD63hWPTnRzlpr7GWl_RZN7XmkGJlo=|1668520990; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:10 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-eb92f88a-bb1a-40cf-a3ae-d490723c7a23' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-eb92f88a-bb1a-40cf-a3ae-d490723c7a23' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-eb92f88a-bb1a-40cf-a3ae-d490723c7a23' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.162
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.16400003433228
+ x-lb-timing: 0.165
+ x-idc-id: 2
+ set-cookie: KLBRSID=ed2ad9934af8a1f80db52dcb08d13344|1668520990|1668520990; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: must-revalidate, proxy-revalidate, no-cache, no-store
+ content-length: 104925
+ x-nws-log-uuid: 11950589161668944558
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.518
+ x-cdn-provider: tencent
+ 
+ligne 6:
+HTTP/1.1 302 Moved Temporarily
+ Date: Tue, 15 Nov 2022 14:03:12 GMT
+ Content-Type: text/html
+ Connection: keep-alive
+ Keep-Alive: timeout=30
+ Location: https://sec.douban.com/b?r=https%3A%2F%2Fwww.douban.com%2Fnote%2F712002390%2F%3F_i%3D60952385belrmp
+ Set-Cookie: bid=7OVfBT7iHKE; Expires=Wed, 15-Nov-23 14:03:12 GMT; Domain=.douban.com; Path=/
+ X-DOUBAN-NEWBID: 7OVfBT7iHKE
+ Server: dae
+ Strict-Transport-Security: max-age=15552000;
+ 
+ HTTP/1.1 403 Forbidden
+ Date: Tue, 15 Nov 2022 14:03:13 GMT
+ Content-Type: text/html; charset=utf-8
+ Connection: keep-alive
+ Keep-Alive: timeout=30
+ Set-Cookie: bid=uPhMzSWDdj4; Expires=Wed, 15-Nov-23 14:03:13 GMT; Domain=.douban.com; Path=/
+ X-DOUBAN-NEWBID: uPhMzSWDdj4
+ Server: dae
+ 
+ligne 7:
+HTTP/1.1 200 OK
+ Connection: keep-alive
+ Content-Length: 45540
+ Content-Type: text/html;charset=utf-8
+ Date: Tue, 15 Nov 2022 14:03:15 GMT
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ Server: BWS
+ Set-Cookie: x-logic-no=4; Domain=.mbd.baidu.com; Path=/
+ Set-Cookie: BAIDUID=0FB246CFEA38C62DD027579546BA7116:FG=1; expires=Wed, 15-Nov-23 14:03:15 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Strict-Transport-Security: max-age=300
+ Tracecode: 01956016680345816074111522
+ Traceid: 1668520995048927002611240189668649011123
+ Vary: Accept-Encoding
+ X-Bd-Api: data_pc_landingbjh
+ X-Bd-Status: 200
+ X-Cache-Status: MISS
+ X-Logic-No: 4
+ 
+ligne 8:
+HTTP/2 403 
+ content-type: text/html
+ content-length: 1622
+ last-modified: Wed, 07 Jul 2021 07:55:54 GMT
+ accept-ranges: bytes
+ server: AmazonS3
+ date: Tue, 15 Nov 2022 14:03:16 GMT
+ etag: "f284f1772fb300e8ab2b4f87a150c48a"
+ x-cache: Error from cloudfront
+ via: 1.1 6ef2451f8ed0586c2c8ab490fa608aea.cloudfront.net (CloudFront)
+ x-amz-cf-pop: CDG50-P4
+ x-amz-cf-id: UPP2tVrlc0VE66oxoR5XsHaC570Jua5YelW4NTiKADb8HHn8DntsnQ==
+ age: 33730
+ 
+ligne 9:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:16 GMT
+ Content-Type: text/html;charset=UTF-8
+ Server: openresty
+ Vary: Accept-Encoding
+ Access-Control-Allow-Origin: *
+ Access-Control-Allow-Credentials: true
+ Access-Control-Allow-Headers: Origin,Content-Type,authorization,Accept,token,X-Requested-With
+ Access-Control-Allow-Methods: POST,GET,OPTIONS,DELETE
+ Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+ Access-Control-Expose-Headers: Origin,Access-Control-Request-Method,Access-Control-Request-Headers,X-forwared-port,X-forwarded-host
+ Gateway-Forwarding: prod-txy5
+ Access-Time: 1668520996857
+ Content-Language: en-US
+ X-HAIWAI: haiwai_qcloud
+ X-Cache-Lookup: Cache Miss
+ X-Client-IP: 195.220.106.83
+ From: overseas
+ X-Cache-Lookup: Cache Miss
+ X-Cache-Lookup: Cache Miss
+ Cache-Control: no-cache
+ Transfer-Encoding: chunked
+ X-NWS-LOG-UUID: 4274659015361832639
+ Connection: keep-alive
+ X-Cache-Lookup: Cache Miss
+ 
+ligne 10:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:18 GMT
+ Content-Type: text/html; charset=UTF-8
+ Connection: keep-alive
+ Server: nginx
+ Vary: Accept-Encoding
+ X-Pingback: http://parents.youthmba.com/xmlrpc.php
+ Link: <http://parents.youthmba.com/wp-json/>; rel="https://api.w.org/"
+ Link: <http://parents.youthmba.com/?p=4255>; rel=shortlink
+ From-Server: TEN219
+ Access-Control-Allow-Headers: X-Requested-With,Content-Type,X-Token,YMBA-Token
+ Access-Control-Request-Method: POST
+ Access-Control-Allow-Methods: GET,POST,OPTIONS,DELETE
+ 
+ligne 11:
+HTTP/2 200 
+ date: Tue, 15 Nov 2022 14:03:18 GMT
+ content-type: text/html
+ last-modified: Mon, 14 Nov 2022 14:40:38 GMT
+ vary: Accept-Encoding
+ strict-transport-security: max-age=31536000; includeSubDomains; preload
+ cf-cache-status: DYNAMIC
+ server-timing: cf-q-config;dur=6.0000020312145e-06
+ report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rWj6EILCiMDPVNmZHyOZFJ5%2F21jdGdc6rFDz0VSjA7mvG8Pz3WQdB8nm0nSlCLbKRvdEgXIGJ0AAJQ%2BTTsp%2FeOoY%2BEKcUUbDcJhQWQKo4TLvgDAnhgMTSnGw0dINTzUiQvV9eyU%3D"}],"group":"cf-nel","max_age":604800}
+ nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+ x-content-type-options: nosniff
+ server: cloudflare
+ cf-ray: 76a887906ece7484-LHR
+ alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+ 
+ligne 12:
+HTTP/2 200 
+ server: nginx
+ date: Tue, 15 Nov 2022 14:03:21 GMT
+ content-type: text/html; charset=UTF-8
+ cache-control: public, max-age=120
+ vary: Accept-Encoding, User-Agent
+ via: 1.1 google
+ alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+ 
+ligne 13:
+HTTP/2 200 
+ server: Tengine
+ content-type: text/html; charset=utf-8
+ date: Tue, 15 Nov 2022 14:03:23 GMT
+ vary: special-area
+ cache-control: max-age=60
+ expires: Tue, 15 Nov 2022 14:04:23 GMT
+ ali-swift-global-savetime: 1668521003
+ via: cache36.l2nu20-8[162,162,200-0,M], cache3.l2nu20-8[164,0], cache20.l2hk2[198,197,200-0,M], cache13.l2hk2[199,0], cache4.l2de2[401,401,200-0,M], cache20.l2de2[402,0], cache8.fr1[413,413,200-0,M], cache3.fr1[419,0]
+ age: 0
+ x-cache: MISS TCP_MISS dirn:-2:-2
+ x-swift-savetime: Tue, 15 Nov 2022 14:03:23 GMT
+ x-swift-cachetime: 300
+ x-cache-remote: MISS
+ cdn-user-ip: 195.220.106.83
+ cdn-source: Ali
+ cdn-ip: 47.246.50.230
+ timing-allow-origin: *
+ eagleid: 2ff6329716685210035183083e
+ 
+ligne 14:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:25 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=1cde63c8-c10c-44c1-8488-0add581517ff; path=/; expires=Thu, 14 Nov 2024 14:03:25 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=df74f82d-79d2-44f5-a077-06e21c9818d3; path=/; domain=.zhihu.com
+ set-cookie: d_c0=ABCYUC_63hWPTkjtNRW6uMNixDhDCvAyeUE=|1668521005; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:25 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-a3b35625-a714-4183-9a64-8b3797171ea6' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-a3b35625-a714-4183-9a64-8b3797171ea6' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-a3b35625-a714-4183-9a64-8b3797171ea6' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.666
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.66800022125244
+ x-lb-timing: 0.669
+ x-idc-id: 2
+ set-cookie: KLBRSID=d1f07ca9b929274b65d830a00cbd719a|1668521005|1668521005; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 142033
+ x-nws-log-uuid: 12513061585154232042
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.999
+ x-cdn-provider: tencent
+ 
+ligne 15:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:26 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=0576631c-01b7-4ca7-a293-224767ca30bb; path=/; expires=Thu, 14 Nov 2024 14:03:26 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=647461b7-9045-4ca2-9248-f3bff3a6fed1; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AJDYhTD63hWPTv4wkizHQV0CT5IiK9ksOIM=|1668521006; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:26 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-2b19640f-4a24-4256-bea0-fae8d7475a01' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-2b19640f-4a24-4256-bea0-fae8d7475a01' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-2b19640f-4a24-4256-bea0-fae8d7475a01' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.227
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.23099994659424
+ x-lb-timing: 0.231
+ x-idc-id: 2
+ set-cookie: KLBRSID=0a401b23e8a71b70de2f4b37f5b4e379|1668521006|1668521006; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 145793
+ x-nws-log-uuid: 3326263184802584631
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.650
+ x-cdn-provider: tencent
+ 
+ligne 16:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:27 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=a8f922be-fbdd-4a6f-8f03-80d242f8ad12; path=/; expires=Thu, 14 Nov 2024 14:03:27 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=cdcd2507-d7e1-4dac-82b1-6c944396b6b6; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AQAXNzH63hWPTrTeOcGC9neaYapJzZHCf6Q=|1668521007; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:27 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-0a49d9cb-2cc2-412c-9df4-2075820213fa' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-0a49d9cb-2cc2-412c-9df4-2075820213fa' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-0a49d9cb-2cc2-412c-9df4-2075820213fa' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.152
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.15499997138977
+ x-lb-timing: 0.156
+ x-idc-id: 2
+ set-cookie: KLBRSID=37f2e85292ebb2c2ef70f1d8e39c2b34|1668521007|1668521007; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: must-revalidate, proxy-revalidate, no-cache, no-store
+ content-length: 108926
+ x-nws-log-uuid: 2879754381765631976
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.477
+ x-cdn-provider: tencent
+ 
+ligne 17:
+HTTP/1.1 200 OK
+ Server: nginx
+ Date: Tue, 15 Nov 2022 14:03:29 GMT
+ Content-Type: text/html; charset=UTF-8
+ Connection: keep-alive
+ X-Powered-By: Asp.Net
+ Set-Cookie: PHPSESSID=oa1qbc0a6kmk1q7jepn663urv2; path=/
+ Expires: Thu, 19 Nov 1981 08:52:00 GMT
+ Cache-Control: no-store, no-cache, must-revalidate
+ Pragma: no-cache
+ 
+ligne 18:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:30 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=9ea80511-fd63-46b6-b3aa-9a503b5116b0; path=/; expires=Thu, 14 Nov 2024 14:03:30 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=a5b081a5-6434-402c-ab4b-465f0a35a022; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AMBWLDT63hWPTi2ukQU679BUgq_GacLzdxs=|1668521010; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:30 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-69f1e7f6-0ab6-42af-b506-3dc79d3a8886' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-69f1e7f6-0ab6-42af-b506-3dc79d3a8886' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-69f1e7f6-0ab6-42af-b506-3dc79d3a8886' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.128
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.13299989700317
+ x-lb-timing: 0.135
+ x-idc-id: 2
+ set-cookie: KLBRSID=0a401b23e8a71b70de2f4b37f5b4e379|1668521010|1668521010; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: must-revalidate, proxy-revalidate, no-cache, no-store
+ content-length: 98219
+ x-nws-log-uuid: 10793831901319040523
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.459
+ x-cdn-provider: tencent
+ 
+ligne 19:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:31 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=4b45fb13-90a4-476a-bb9a-9dbc93904441; path=/; expires=Thu, 14 Nov 2024 14:03:30 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=54b1e40b-8c29-4e19-aee2-84c99634fa0b; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AACX1TT63hWPTutcsyVDPvb3zwzc0fF_xBs=|1668521010; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:30 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-73835441-fa20-475e-bef8-ea49169231c0' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-73835441-fa20-475e-bef8-ea49169231c0' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-73835441-fa20-475e-bef8-ea49169231c0' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.292
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.29500007629395
+ x-lb-timing: 0.296
+ x-idc-id: 2
+ set-cookie: KLBRSID=4efa8d1879cb42f8c5b48fe9f8d37c16|1668521010|1668521010; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 126637
+ x-nws-log-uuid: 9174516709299987227
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.644
+ x-cdn-provider: tencent
+ 
+ligne 20:
+HTTP/1.1 200 OK
+ Server: Tengine
+ Content-Type: text/html; charset=utf-8
+ Content-Length: 28717
+ Connection: keep-alive
+ Date: Tue, 15 Nov 2022 14:03:31 GMT
+ Vary: Accept-Encoding
+ Accept-Ranges: bytes
+ Ali-Swift-Global-Savetime: 1668521011
+ Via: cache34.l2cm9-2[27,28,200-0,M], cache9.l2cm9-2[29,0], cache10.l2de2[273,274,200-0,M], cache17.l2de2[279,0], cache10.fr1[290,289,200-0,M], cache3.fr1[292,0]
+ Age: 0
+ X-Cache: MISS TCP_MISS dirn:-2:-2
+ X-Swift-SaveTime: Tue, 15 Nov 2022 14:03:31 GMT
+ X-Swift-CacheTime: 60
+ Timing-Allow-Origin: *
+ EagleId: 2ff6329716685210115791150e
+ 
+ligne 21:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:32 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=6a369a43-2612-43c3-9890-61c073fe2e81; path=/; expires=Thu, 14 Nov 2024 14:03:32 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=3e5135d8-2c1d-4d42-9eb2-0f1f63a1d06e; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AGCWPDb63hWPTsMuDLXaR-LSej72SsJQwtc=|1668521012; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:32 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-3538ca5b-e1a1-4af5-8eee-33db26924d67' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-3538ca5b-e1a1-4af5-8eee-33db26924d67' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-3538ca5b-e1a1-4af5-8eee-33db26924d67' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.350
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.3529999256134
+ x-lb-timing: 0.355
+ x-idc-id: 2
+ set-cookie: KLBRSID=fe0fceb358d671fa6cc33898c8c48b48|1668521012|1668521012; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 148089
+ x-nws-log-uuid: 15909013362848860833
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.684
+ x-cdn-provider: tencent
+ 
+ligne 22:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:33 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=224d4061-2d1b-4320-b71b-3dd00fbebfc8; path=/; expires=Thu, 14 Nov 2024 14:03:33 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=b0686e32-a61c-4b9b-8fb2-75512a2109b5; path=/; domain=.zhihu.com
+ set-cookie: d_c0=ALAWETf63hWPToDaY91DSdbgDDM_qoqH04w=|1668521013; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:33 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-4c573b93-8680-42b0-a9b2-1fd188d2e363' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-4c573b93-8680-42b0-a9b2-1fd188d2e363' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-4c573b93-8680-42b0-a9b2-1fd188d2e363' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.124
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.1269998550415
+ x-lb-timing: 0.129
+ x-idc-id: 2
+ set-cookie: KLBRSID=f48cb29c5180c5b0d91ded2e70103232|1668521013|1668521013; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: must-revalidate, proxy-revalidate, no-cache, no-store
+ content-length: 110453
+ x-nws-log-uuid: 9557658520864131955
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.447
+ x-cdn-provider: tencent
+ 
+ligne 23:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:34 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=6f1d4c39-b6ce-42ca-b261-2b8c63494f35; path=/; expires=Thu, 14 Nov 2024 14:03:33 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=ce63f67a-572a-4180-a26b-d7574d9a1810; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AHBWqTf63hWPTovRBdXThdEtNLtUHDkJYks=|1668521013; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:33 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-9f2523b0-af66-445e-a828-7c1020f0b6d2' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-9f2523b0-af66-445e-a828-7c1020f0b6d2' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-9f2523b0-af66-445e-a828-7c1020f0b6d2' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.379
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.3840000629425
+ x-lb-timing: 0.385
+ x-idc-id: 2
+ set-cookie: KLBRSID=76ae5fb4fba0f519d97e594f1cef9fab|1668521013|1668521013; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 152345
+ x-nws-log-uuid: 10494753602078645099
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.721
+ x-cdn-provider: tencent
+ 
+ligne 24:
+HTTP/2 200 
+ server: Tengine
+ content-type: text/html; charset=utf-8
+ date: Tue, 15 Nov 2022 14:03:34 GMT
+ vary: special-area
+ cache-control: max-age=60
+ expires: Tue, 15 Nov 2022 14:04:34 GMT
+ ali-swift-global-savetime: 1668521014
+ via: cache62.l2nu20-8[400,400,200-0,M], cache41.l2nu20-8[401,0], cache32.l2hk2[430,430,200-0,M], cache32.l2hk2[433,0], cache19.l2de2[624,623,200-0,M], cache11.l2de2[624,0], cache3.fr1[635,634,200-0,M], cache8.fr1[637,0]
+ age: 0
+ x-cache: MISS TCP_MISS dirn:-2:-2
+ x-swift-savetime: Tue, 15 Nov 2022 14:03:34 GMT
+ x-swift-cachetime: 300
+ x-cache-remote: MISS
+ cdn-user-ip: 195.220.106.83
+ cdn-source: Ali
+ cdn-ip: 47.246.50.225
+ timing-allow-origin: *
+ eagleid: 2ff6329c16685210143068602e
+ 
+ligne 25:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:36 GMT
+ Content-Type: text/html; charset=utf-8
+ Content-Length: 61563
+ Connection: keep-alive
+ Vary: Accept-Encoding
+ Cache-Control: no-store
+ 
+ligne 26:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:36 GMT
+ Content-Type: text/html;charset=UTF-8
+ Server: openresty
+ Vary: Accept-Encoding
+ Access-Control-Allow-Origin: *
+ Access-Control-Allow-Credentials: true
+ Access-Control-Allow-Headers: Origin,Content-Type,authorization,Accept,token,X-Requested-With
+ Access-Control-Allow-Methods: POST,GET,OPTIONS,DELETE
+ Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+ Access-Control-Expose-Headers: Origin,Access-Control-Request-Method,Access-Control-Request-Headers,X-forwared-port,X-forwarded-host
+ Gateway-Forwarding: prod-txy7
+ Access-Time: 1668521016911
+ Content-Language: en-US
+ X-HAIWAI: haiwai_qcloud
+ X-Cache-Lookup: Cache Miss
+ X-Client-IP: 195.220.106.83
+ From: overseas
+ X-Cache-Lookup: Cache Miss
+ X-Cache-Lookup: Cache Miss
+ Cache-Control: no-cache
+ Transfer-Encoding: chunked
+ X-NWS-LOG-UUID: 4095809450841019775
+ Connection: keep-alive
+ X-Cache-Lookup: Cache Miss
+ 
+ligne 27:
+HTTP/1.1 200 OK
+ Server: JSP3/2.0.14
+ Date: Tue, 15 Nov 2022 14:03:38 GMT
+ Content-Type: text/html
+ Content-Length: 13047
+ Connection: keep-alive
+ Last-Modified: Sat, 17 Sep 2022 15:47:09 GMT
+ ETag: "afc5bfbeaccad81:0"
+ Accept-Ranges: bytes
+ Timing-Allow-Origin: *
+ Ohc-Cache-HIT: chenzct53 [1], xiangyix241 [1]
+ Ohc-File-Size: 13047
+ X-Cache-Status: MISS
+ Strict-Transport-Security: max-age=5184000
+ 
+ligne 28:
+HTTP/1.1 200 OK
+ Server: nginx
+ Date: Tue, 15 Nov 2022 14:03:40 GMT
+ Content-Type: text/html; charset=UTF-8
+ Connection: keep-alive
+ Vary: Accept-Encoding
+ X-Powered-By: PHP/5.6.30
+ Link: <http://www.gzoni.com/wp-json/>; rel="https://api.w.org/"
+ 
+ligne 29:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:40 GMT
+ Content-Type: text/html;charset=UTF-8
+ Server: openresty
+ Vary: Accept-Encoding
+ Access-Control-Allow-Origin: *
+ Access-Control-Allow-Credentials: true
+ Access-Control-Allow-Headers: Origin,Content-Type,authorization,Accept,token,X-Requested-With
+ Access-Control-Allow-Methods: POST,GET,OPTIONS,DELETE
+ Vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+ Access-Control-Expose-Headers: Origin,Access-Control-Request-Method,Access-Control-Request-Headers,X-forwared-port,X-forwarded-host
+ Gateway-Forwarding: prod-txy5
+ Access-Time: 1668521020494
+ Content-Language: en-US
+ X-HAIWAI: haiwai_qcloud
+ X-Cache-Lookup: Cache Miss
+ X-Client-IP: 195.220.106.83
+ From: overseas
+ X-Cache-Lookup: Cache Miss
+ X-Cache-Lookup: Cache Miss
+ Cache-Control: no-cache
+ Transfer-Encoding: chunked
+ X-NWS-LOG-UUID: 10206443809008438515
+ Connection: keep-alive
+ X-Cache-Lookup: Cache Miss
+ 
+ligne 30:
+HTTP/1.1 200 OK
+ Server: JSP3/2.0.14
+ Date: Tue, 15 Nov 2022 14:03:42 GMT
+ Content-Type: text/html
+ Content-Length: 31589
+ Connection: keep-alive
+ Last-Modified: Sat, 17 Sep 2022 08:41:50 GMT
+ ETag: "9334a5471cad81:0"
+ Age: 4191184
+ Accept-Ranges: bytes
+ Ohc-Global-Saved-Time: Wed, 28 Sep 2022 01:50:38 GMT
+ Timing-Allow-Origin: *
+ Ohc-Cache-HIT: chenzct66 [1], xiangyix108 [4]
+ Ohc-File-Size: 31589
+ X-Cache-Status: HIT
+ Strict-Transport-Security: max-age=5184000
+ 
+ligne 31:
+HTTP/2 200 
+ server: nginx
+ date: Tue, 15 Nov 2022 14:03:43 GMT
+ content-type: text/html; charset=utf-8
+ content-length: 0
+ x-content-type-options: nosniff
+ x-ua-compatible: IE=Edge,chrome=1
+ x-xss-protection: 1; mode=block
+ strict-transport-security: max-age=10368000
+ 
+ligne 32:
+HTTP/2 200 
+ server: nginx
+ date: Tue, 15 Nov 2022 14:03:44 GMT
+ content-type: text/html; charset=UTF-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding, Cookie
+ cache-control: max-age=3, must-revalidate
+ strict-transport-security: max-age=15768000
+ 
+ligne 33:
+HTTP/1.1 200 OK
+ Server: openresty/1.21.4.1
+ Date: Tue, 15 Nov 2022 14:03:45 GMT
+ Content-Type: text/html; charset=utf-8
+ Content-Length: 13106
+ Connection: keep-alive
+ Vary: Accept-Encoding
+ Last-Modified: Wed, 19 Oct 2022 12:00:36 GMT
+ Accept-Ranges: bytes
+ ETag: "f31fee65b2e3d81:0"
+ X-Powered-By: ASP.NET
+ 
+ligne 34:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:46 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=6499a29a-3d3a-426d-ade7-c4514f37806d; path=/; expires=Thu, 14 Nov 2024 14:03:45 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=5fbc2843-89b5-433b-8c73-d8f344e1f2c6; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AZBYhkP63hWPTncgeyAPQWSAEZmui73b-7U=|1668521025; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:45 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-ed6b6353-2bd8-42af-bb98-5075989d5519' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-ed6b6353-2bd8-42af-bb98-5075989d5519' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-ed6b6353-2bd8-42af-bb98-5075989d5519' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.401
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.40500020980835
+ x-lb-timing: 0.407
+ x-idc-id: 2
+ set-cookie: KLBRSID=d017ffedd50a8c265f0e648afe355952|1668521025|1668521025; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 129562
+ x-nws-log-uuid: 16337863363703466749
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.731
+ x-cdn-provider: tencent
+ 
+ligne 35:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:46 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=d7add84e-467c-4a30-9951-2e7107272b55; path=/; expires=Thu, 14 Nov 2024 14:03:46 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=a4f44488-9b0c-4c20-b627-c6bdcd1b94a7; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AOBWZkT63hWPThGu1afMPpER0GqUlxiJ7hg=|1668521026; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:46 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-94a0a02d-ee0b-4d32-9d00-9a71a0ec34e3' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-94a0a02d-ee0b-4d32-9d00-9a71a0ec34e3' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-94a0a02d-ee0b-4d32-9d00-9a71a0ec34e3' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.268
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.27300000190735
+ x-lb-timing: 0.273
+ x-idc-id: 2
+ set-cookie: KLBRSID=ed2ad9934af8a1f80db52dcb08d13344|1668521026|1668521026; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 135902
+ x-nws-log-uuid: 10078838912290495941
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.601
+ x-cdn-provider: tencent
+ 
+ligne 36:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:48 GMT
+ Content-Type: text/html; charset=UTF-8
+ Connection: keep-alive
+ Server: waf/4.31.19-2.el6
+ X-Frame-Option: allow-from http://www.kjcg123.com/, allow-from http://yun.kjcg123.com:8080/
+ Set-Cookie: gkyh_cookie=10.10.0.14.1668521028655734; path=/; max-age=31536000; domain=.stdaily.com
+ Accept-Ranges: bytes
+ X-Via: 1.1 nxian103:5 (Cdn Cache Server V2.0), 1.1 uzhoudianxin101:4 (Cdn Cache Server V2.0), 1.1 bl22:7 (Cdn Cache Server V2.0)
+ X-Ws-Request-Id: 63739c44_bl22_15857-29845
+ 
+ligne 37:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:50 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=62775895-fd1d-478b-9e72-bd7e3da0facb; path=/; expires=Thu, 14 Nov 2024 14:03:49 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=33ea07ec-d1b1-48bf-8974-7a367713dc0c; path=/; domain=.zhihu.com
+ set-cookie: d_c0=APAW2Eb63hWPTkZm6W83DDxu7DLka-B1Yt4=|1668521029; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:49 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-5336da8b-6037-451e-a0f7-9b536289c133' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-5336da8b-6037-451e-a0f7-9b536289c133' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-5336da8b-6037-451e-a0f7-9b536289c133' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.796
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.79999995231628
+ x-lb-timing: 0.802
+ x-idc-id: 2
+ set-cookie: KLBRSID=e42bab774ac0012482937540873c03cf|1668521029|1668521029; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 187592
+ x-nws-log-uuid: 5587005604218199297
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 1.137
+ x-cdn-provider: tencent
+ 
+ligne 38:
+HTTP/2 301 
+ server: openresty
+ date: Tue, 15 Nov 2022 14:03:50 GMT
+ content-type: text/html; charset=UTF-8
+ x-rid: 843b466a797f9c492c5003855d2923b2
+ p3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+ x-xss-protection: 1; mode=block
+ x-content-type-options: nosniff
+ strict-transport-security: max-age=15552001
+ x-tumblr-user: neverdai
+ cache-control: max-age=3600
+ location: https://neverdai.com/post/111264009501/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%B0%91%E7%9C%8B%E4%B9%A6
+ x-ua-compatible: IE=Edge,chrome=1
+ 
+ HTTP/2 200 
+ server: openresty
+ date: Tue, 15 Nov 2022 14:03:51 GMT
+ content-type: text/html; charset=UTF-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ x-rid: 628d8c5afad820d323a4b6bfbfe76afe
+ p3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+ x-xss-protection: 1; mode=block
+ x-content-type-options: nosniff
+ strict-transport-security: max-age=15552001
+ x-tumblr-user: neverdai
+ x-tumblr-pixel-0: https://px.srvcs.tumblr.com/impixu?T=1668521030&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL25ldmVyZGFpLmNvbS9wb3N0LzExMTI2NDAwOTUwMS8lRTQlQjglQkElRTQlQkIlODAlRTQlQjklODglRTQlQkQlQTAlRTUlQkElOTQlRTglQUYlQTUlRTUlQjAlOTElRTclOUMlOEIlRTQlQjklQTYiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSJ9&U=LMLNBEBGAG&K=5f2b161218d5e1430f1e4f51cf0cea7a47c7e9a1aebe75822074865b0146e4a8--https://px.srvcs.tumblr.com/impixu?T=1668521030&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9uZXZlcmRhaS5jb20vcG9zdC8x
+ x-tumblr-pixel-1: MTEyNjQwMDk1MDEvJUU0JUI4JUJBJUU0JUJCJTgwJUU0JUI5JTg4JUU0JUJEJUEwJUU1JUJBJTk0JUU4JUFGJUE1JUU1JUIwJTkxJUU3JTlDJThCJUU0JUI5JUE2IiwicmVxdHlwZSI6MCwicm91dGUiOiIvcG9zdC86aWQvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiMTExMjY0MDA5NTAxIiwiYmxvZ2lkIjoxNDk0Mjc2NjUsInNvdXJjZSI6MzN9XX0=&U=AOHLEHBEHG&K=57b68135f926d2b58fb9bf18c60c203db4ef45a2abc38979e39c7ccea6316254
+ x-tumblr-pixel: 2
+ link: <https://64.media.tumblr.com/avatar_0444e97d13d7_128.png>; rel=icon
+ x-ua-compatible: IE=Edge,chrome=1
+ 
+ligne 39:
+HTTP/1.1 302 Found
+ Connection: keep-alive
+ Content-Type: text/html; charset=UTF-8
+ Date: Tue, 15 Nov 2022 14:03:52 GMT
+ Location: https://baike.baidu.com/anticrawl/captchaview?captchaSourceUrl=https%3A%2F%2Fbaike.baidu.com%2Ftashuo%2Fbrowse%2Fcontent%3Fid%3D73c81632caf0f73d9026dd98&captchaSourceFrom=baike_hybrid_tashuo_riskscore
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ Server: Apache
+ Set-Cookie: BAIDUID=AAB0003E1E82337C4CFC6CA78D8CD449:FG=1; expires=Wed, 15-Nov-23 14:03:52 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Set-Cookie: BAIDUID=AAB0003E1E82337C1579EF9C69B7326A:FG=1; expires=Wed, 15-Nov-23 14:03:52 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ 
+ HTTP/1.1 200 OK
+ Connection: keep-alive
+ Content-Type: text/html; charset=UTF-8
+ Date: Tue, 15 Nov 2022 14:03:52 GMT
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ Server: Apache
+ Set-Cookie: BAIDUID=AAB0003E1E82337CE3FB3201698D9509:FG=1; expires=Wed, 15-Nov-23 14:03:52 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Set-Cookie: BAIDUID=AAB0003E1E82337C81ACBE9870CC44CD:FG=1; expires=Wed, 15-Nov-23 14:03:52 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Vary: Accept-Encoding
+ Vary: Accept-Encoding
+ 
+ligne 40:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:03:53 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=e91f6ef3-8fe0-4a33-8f12-d6f38dd60328; path=/; expires=Thu, 14 Nov 2024 14:03:53 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=9961e647-2c0d-487c-afc8-45afcf33e5fd; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AHBXyEr63hWPTpyy_7QJ9WygzvS3gH8a-0o=|1668521033; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:03:53 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-d1b54931-6ca8-44b9-86f7-7b371c58d7c2' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-d1b54931-6ca8-44b9-86f7-7b371c58d7c2' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-d1b54931-6ca8-44b9-86f7-7b371c58d7c2' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.308
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.31100010871887
+ x-lb-timing: 0.312
+ x-idc-id: 2
+ set-cookie: KLBRSID=2177cbf908056c6654e972f5ddc96dc2|1668521033|1668521033; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 154922
+ x-nws-log-uuid: 13261764105715989452
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.635
+ x-cdn-provider: tencent
+ 
+ligne 41:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:54 GMT
+ Content-Type: text/html
+ Connection: keep-alive
+ Server: nginx
+ X-Via: 1.1 CS-000-010GX51:17 (Cdn Cache Server V2.0), 1.1 bl21:2 (Cdn Cache Server V2.0)
+ X-Ws-Request-Id: 63739c4a_bl22_15667-948
+ Access-Control-Allow-Origin: *
+ 
+ligne 42:
+HTTP/2 200 
+ server: JSP3/2.0.14
+ date: Tue, 15 Nov 2022 14:03:55 GMT
+ content-type: text/html; charset=utf-8
+ cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+ set-cookie: acw_tc=76b20f7416685210354194695e1ad68727ec953a03510e72c6ae060b6fbc2c;path=/;HttpOnly;Max-Age=1800
+ vary: Accept-Encoding
+ x-powered-by: Next.js
+ vary: Accept-Encoding
+ timing-allow-origin: *
+ ohc-cache-hit: als3un62 [1], xaix73 [1]
+ x-cache-status: MISS
+ 
+ligne 43:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:56 GMT
+ Content-Type: text/html
+ Content-Length: 12531
+ Connection: keep-alive
+ Server: Apache
+ Last-Modified: Mon, 10 Apr 2017 07:36:12 GMT
+ Accept-Ranges: bytes
+ Cache-Control: max-age=86400
+ Expires: Wed, 16 Nov 2022 14:03:54 GMT
+ Set-Cookie: clwz_blc_pst_xd0xc2xcexc5=184658112.20480;Path=/
+ X-Via: 1.1 PSzjnbsxsr217:5 (Cdn Cache Server V2.0), 1.1 PS-WNZ-012WK122:2 (Cdn Cache Server V2.0), 1.1 PSygldLON4os68:5 (Cdn Cache Server V2.0)
+ X-Ws-Request-Id: 63739c4b_PSygldLON4qc70_32931-47070
+ 
+ligne 44:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:03:56 GMT
+ Content-Type: text/html
+ Connection: keep-alive
+ Server: nginx
+ X-Via: 1.1 CS-000-01EXV49:13 (Cdn Cache Server V2.0), 1.1 bl22:3 (Cdn Cache Server V2.0)
+ X-Ws-Request-Id: 63739c4c_bl22_15667-1179
+ Access-Control-Allow-Origin: *
+ 
+ligne 45:
+
+ligne 46:
+HTTP/1.1 200 OK
+ Access-Control-Allow-Headers: X-ik-ssl,X-ik-token,X-ik-utdata,X-ik-appid,X-ik-cuid,X-ik-fc,X-swan-version,X-ik-tries,X-fail,X-ik-appversion,X-ik-appname,Content-Type,SWAN_UPGRADE_CHECK
+ Connection: keep-alive
+ Content-Security-Policy: upgrade-insecure-requests
+ Content-Security-Policy-Report-Only: object-src 'none' ; script-src 'self' 'unsafe-eval' 'report-sample' 'unsafe-inline' kmmrss.baidu.com:* iknowpc.bdimg.com:* m.baidu.com:* ada.baidu.com:* s.bdstatic.com:* ext.baidu.com:* entry.baidu.com:* pos.baidu.com:* cpro.baidustatic.com:* gh.bdstatic.com:* river.zhidao.baidu.com:* b.bdstatic.com:* dlswbr.baidu.com:* mountain.zhidao.baidu.com:* ecma.bdimg.com:* hm.baidu.com:* www.baidu.com:* fex.bdstatic.com:* ss1.bdstatic.com:* ; frame-src 'self' passport.baidu.com wappass.baidu.com pan.baidu.com river.zhidao.baidu.com pos.baidu.com bbabrowserinternal://browser zhidao baiduboxapp bbabee://multijump ada.baidu.com ; base-uri 'self' ; report-uri https://report-uri.baidu.com/report?app=zhidao
+ Content-Type: text/html
+ Date: Tue, 15 Nov 2022 14:03:59 GMT
+ Not-Try: 0
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ Server: Apache
+ Set-Cookie: ZD_ENTRY=empty; path=/; domain=.baidu.com
+ Set-Cookie: BAIDUID=97ACF093CB117904171D2AD30A3BB050:FG=1; expires=Wed, 15-Nov-23 14:03:59 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Vary: Accept-Encoding
+ Vary: Accept-Encoding
+ Wait: 1
+ 
+ligne 47:
+HTTP/2 200 
+ server: CLOUD ELB 1.0.0
+ date: Tue, 15 Nov 2022 14:04:00 GMT
+ content-type: text/html; charset=utf-8
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ vary: Accept-Encoding
+ set-cookie: _zap=0ab93fb8-c4e6-4184-a41a-40cd333cd8ab; path=/; expires=Thu, 14 Nov 2024 14:03:59 GMT; domain=.zhihu.com
+ set-cookie: _xsrf=0d4f921e-ff7f-4d05-acf1-4d166c469397; path=/; domain=.zhihu.com
+ set-cookie: d_c0=AKBYa1H63hWPTl6HFIOeytLSFACZxd-xCGk=|1668521040; Path=/; Domain=zhihu.com; Expires=Sat, 15 Nov 2025 14:04:00 GMT
+ content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-d82b80da-8ce7-4e78-bb51-15d12e3fd84a' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-content-security-policy: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-d82b80da-8ce7-4e78-bb51-15d12e3fd84a' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-webkit-csp: default-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf blob:; img-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf data: blob: resource: t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; connect-src curl.sh fichier_in_utile.txt traitement_url_base.sh urlcn.txt urls_exercices.pdf wss: blob: resource:; frame-src 'self' *.zhihu.com mailto: tel: weixin: *.vzuu.com mo.m.taobao.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 mtt: zhihujs: captcha.guard.qcloud.com pos.baidu.com dup.baidustatic.com openapi.baidu.com wappass.baidu.com passport.baidu.com *.cme.qcloud.com vs-cdn.tencent-cloud.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; script-src 'self' blob: *.zhihu.com g.alicdn.com qzonestyle.gtimg.cn res.wx.qq.com open.mobile.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com resource: captcha.gtimg.com captcha.guard.qcloud.com pagead2.googlesyndication.com cpro.baidustatic.com pos.baidu.com dup.baidustatic.com i.hao61.net jsapi.qq.com 'nonce-d82b80da-8ce7-4e78-bb51-15d12e3fd84a' hm.baidu.com zz.bdstatic.com b.bdstatic.com imgcache.qq.com vs-cdn.tencent-cloud.com www.mangren.com www.yunmd.net zhihu.govwza.cn gw.alipayobjects.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; style-src 'self' 'unsafe-inline' *.zhihu.com unicom.zhimg.com resource: captcha.gtimg.com www.mangren.com ssl.captcha.qq.com t.captcha.qq.com *.dun.163yun.com *.dun.163.com *.126.net *.nosdn.127.net nos.netease.com; frame-ancestors *.zhihu.com
+ x-frame-options: SAMEORIGIN
+ strict-transport-security: max-age=15552000; includeSubDomains
+ surrogate-control: no-store
+ pragma: no-cache
+ expires: 0
+ x-content-type-options: nosniff
+ x-xss-protection: 1; mode=block
+ x-backend-response: 0.263
+ referrer-policy: no-referrer-when-downgrade
+ x-secng-response: 0.26699995994568
+ x-lb-timing: 0.267
+ x-idc-id: 2
+ set-cookie: KLBRSID=b5ffb4aa1a842930a6f64d0a8f93e9bf|1668521039|1668521039; Path=/
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ x-cache-lookup: Cache Miss
+ cache-control: private, must-revalidate, no-cache, no-store, max-age=0
+ content-length: 117442
+ x-nws-log-uuid: 16608755020831285739
+ x-cache-lookup: Cache Miss
+ x-edge-timing: 0.592
+ x-cdn-provider: tencent
+ 
+ligne 48:
+HTTP/1.1 200 OK
+ Date: Tue, 15 Nov 2022 14:04:01 GMT
+ Content-Type: text/html
+ Content-Length: 28254
+ Connection: keep-alive
+ Set-Cookie: acw_tc=76b20f6416685210417958679e41570114835320a3d6602ca0ec9cc214b11b;path=/;HttpOnly;Max-Age=1800
+ Server: nginx
+ Last-Modified: Tue, 15 Nov 2022 13:34:00 GMT
+ Vary: Accept-Encoding
+ ETag: "63739548-6e5e"
+ Expires: Wed, 16 Nov 2022 14:04:01 GMT
+ Cache-Control: max-age=86400
+ Cache-Control: no-store
+ Accept-Ranges: bytes
+ Strict-Transport-Security: max-age=31536000
+ 
+ligne 49:
+HTTP/1.1 200 OK
+ Access-Control-Allow-Headers: X-ik-ssl,X-ik-token,X-ik-utdata,X-ik-appid,X-ik-cuid,X-ik-fc,X-swan-version,X-ik-tries,X-fail,X-ik-appversion,X-ik-appname,Content-Type,SWAN_UPGRADE_CHECK
+ Connection: keep-alive
+ Content-Security-Policy: upgrade-insecure-requests
+ Content-Security-Policy-Report-Only: object-src 'none' ; script-src 'self' 'unsafe-eval' 'report-sample' 'unsafe-inline' kmmrss.baidu.com:* iknowpc.bdimg.com:* m.baidu.com:* ada.baidu.com:* s.bdstatic.com:* ext.baidu.com:* entry.baidu.com:* pos.baidu.com:* cpro.baidustatic.com:* gh.bdstatic.com:* river.zhidao.baidu.com:* b.bdstatic.com:* dlswbr.baidu.com:* mountain.zhidao.baidu.com:* ecma.bdimg.com:* hm.baidu.com:* www.baidu.com:* fex.bdstatic.com:* ss1.bdstatic.com:* ; frame-src 'self' passport.baidu.com wappass.baidu.com pan.baidu.com river.zhidao.baidu.com pos.baidu.com bbabrowserinternal://browser zhidao baiduboxapp bbabee://multijump ada.baidu.com ; base-uri 'self' ; report-uri https://report-uri.baidu.com/report?app=zhidao
+ Content-Type: text/html
+ Date: Tue, 15 Nov 2022 14:04:03 GMT
+ Not-Try: 0
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ Server: Apache
+ Set-Cookie: ZD_ENTRY=empty; path=/; domain=.baidu.com
+ Set-Cookie: BAIDUID=BA6C00C9FEC73256B489117109A508D8:FG=1; expires=Wed, 15-Nov-23 14:04:03 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Vary: Accept-Encoding
+ Vary: Accept-Encoding
+ Wait: 2
+ 
+ligne 50:
+HTTP/1.1 200 OK
+ Access-Control-Allow-Headers: X-ik-ssl,X-ik-token,X-ik-utdata,X-ik-appid,X-ik-cuid,X-ik-fc,X-swan-version,X-ik-tries,X-fail,X-ik-appversion,X-ik-appname,Content-Type,SWAN_UPGRADE_CHECK
+ Connection: keep-alive
+ Content-Security-Policy: upgrade-insecure-requests
+ Content-Security-Policy-Report-Only: object-src 'none' ; script-src 'self' 'unsafe-eval' 'report-sample' 'unsafe-inline' kmmrss.baidu.com:* iknowpc.bdimg.com:* m.baidu.com:* ada.baidu.com:* s.bdstatic.com:* ext.baidu.com:* entry.baidu.com:* pos.baidu.com:* cpro.baidustatic.com:* gh.bdstatic.com:* river.zhidao.baidu.com:* b.bdstatic.com:* dlswbr.baidu.com:* mountain.zhidao.baidu.com:* ecma.bdimg.com:* hm.baidu.com:* www.baidu.com:* fex.bdstatic.com:* ss1.bdstatic.com:* ; frame-src 'self' passport.baidu.com wappass.baidu.com pan.baidu.com river.zhidao.baidu.com pos.baidu.com bbabrowserinternal://browser zhidao baiduboxapp bbabee://multijump ada.baidu.com ; base-uri 'self' ; report-uri https://report-uri.baidu.com/report?app=zhidao
+ Content-Type: text/html
+ Date: Tue, 15 Nov 2022 14:04:05 GMT
+ Not-Try: 0
+ P3p: CP=" OTI DSP COR IVA OUR IND COM "
+ Server: Apache
+ Set-Cookie: ZD_ENTRY=empty; path=/; domain=.baidu.com
+ Set-Cookie: BAIDUID=6D4552DD2085A820CB74B419C40586FF:FG=1; expires=Wed, 15-Nov-23 14:04:05 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+ Vary: Accept-Encoding
+ Vary: Accept-Encoding
+ Wait: 2
+ 
