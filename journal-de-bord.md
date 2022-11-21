@@ -37,4 +37,11 @@ création du git PPE1
 #### après séance 7
 - 15/11 : continuation du TD 
 	- pour répondre plus vite à l'exercice, je crée un fichier "curl.sh" qui prend tous les entêtes de mes urls 
-	et les dump dans un fichier "fichier_in_utile.txt" (omg j'y crois pas ça marche)
+	et les dump dans un fichier "fichier_in_utile.txt"
+	
+## séance 8 16/11
+- on continue le TD
+- apprentissage de CSS
+
+### après séance 8
+- 21/11 : avec Camille, on a avancé jusqu'à l'exercice 3 du TD. On a des pistes pour l'exercice 4, on continue plus tard !
