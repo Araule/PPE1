@@ -45,3 +45,6 @@ création du git PPE1
 
 ### après séance 8
 - 21/11 : avec Camille, on a avancé jusqu'à l'exercice 3 du TD. On a des pistes pour l'exercice 4, on continue plus tard !
+	tous les fichiers pour le TD qui se trouvait sur mon git ont été bougé sur notre git commun.
+
+
