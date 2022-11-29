@@ -43,8 +43,16 @@ création du git PPE1
 - on continue le TD
 - apprentissage de CSS
 
-### après séance 8
+#### après séance 8
 - 21/11 : avec Camille, on a avancé jusqu'à l'exercice 3 du TD. On a des pistes pour l'exercice 4, on continue plus tard !
 	tous les fichiers pour le TD qui se trouvait sur mon git ont été bougé sur notre git commun.
 
+## séance 9 23/11
+- la réponse de la première partie du TD a été donné, on avance sur la deuxième partie.
+- problème rencontré au niveau des occurences sur les urls chinoises : parfois 0 occurences alors que HTTP 200
 
+#### après séance 9
+- 29/11 : réponse trouvée au problème précédent. cURL ne reconnaît pas l'encodage du chinois "GDK", j'ai essayé de changé le script. 
+	  ça ne marche pas, je verrais demain.
+	  On s'est aussi rendues compte que la partie occurence du script a été écrasé aux fils des git push/pull/merge. J'ai dû réécrire
+	  cette partie du script. A partir de maintenant, je garderais une copie sur mon git...
