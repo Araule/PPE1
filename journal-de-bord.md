@@ -77,6 +77,9 @@ création du git PPE1
 - absente, pas sur Paris
 
 #### après séance 13
-- pour les corpus chinois itrameur : trouver un moyen de tokenizer et d'enlever les mots vide avec un script python
+- 04/01 et 05/01 : pour les corpus chinois itrameur : trouver un moyen de tokenizer et d'enlever les mots vide avec un script python
+		   pour les dumps-text chinois : problème encodage, certains caractères non utf-8 se retrouve dans les dumps (exceptionnel mais cela arrive avec lynx)
+		  problème des concordances quasi-résolu
+- 06/01 : on passe à itrameur
 	  	  
 	  
