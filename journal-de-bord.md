@@ -81,5 +81,8 @@ création du git PPE1
 		   pour les dumps-text chinois : problème encodage, certains caractères non utf-8 se retrouve dans les dumps (exceptionnel mais cela arrive avec lynx)
 		  problème des concordances quasi-résolu
 - 06/01 : on passe à itrameur
+- 07/01 : j'ai repris les commentaires sur les scripts et j'ai mis au propre la page tableaux et les pages concordances
+- 08/01 : je suis passer à la création du nuage de mot pour le chinois, j'ai eu quelque difficulté carr beaucoup de site ne supporte pas les caractère chinois.
+- 09/01 : on met tout au propre, je finis l'analyse itrameur du chinois, c'est la dernière ligne droite. Objectirf : finir aujourd'hui !
 	  	  
 	  
